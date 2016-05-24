@@ -1,3 +1,5 @@
+# Author : Arjo Ghosh আর্য্য ঘোষ
+
 import ssl,requests
 from bs4 import BeautifulSoup
 x=input("Search : ")
